@@ -1,0 +1,21 @@
+Configure miss: dmalloc.h usability
+Configure miss: dmalloc.h presence
+Configure miss: dmalloc.h
+Configure miss: ieee854_float80_t
+Configure miss: ieee754_float64_t
+Configure miss: ieee754_float32_t
+Configure miss: ncurses/termcap.h usability
+Configure miss: ncurses/termcap.h presence
+Configure miss: ncurses/termcap.h
+Configure miss: initscr in -ltermcap
+Configure miss: cos in -lffm
+Configure miss: cos in -lcpml
+Configure miss: gtk-config
+Configure miss: GTK - version >= 1.2.0
+Configure miss: use of ElectricFence malloc debugging
+Configure miss: if mp3x is requested
+Configure miss: if mp3rtp is requested
+Configure miss: if dynamic linking of the frontends is requested
+Configure miss: assembler routines for this processor type
+Configure miss: additional optimizations
+Configure miss: debug options
